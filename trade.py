@@ -7,11 +7,11 @@ import requests
 
 
 
-access_key = "FZxn4diFRxLwQU1MhjtMzcj5tgLy8aMalPYSEC5F"
-secret_key = "w8T2kXtVAtw9kYR6Gcx1bCBt15MHmnSSq8nBAp6j"
+access_key = ""
+secret_key = ""
 
 upbit = pyupbit.Upbit(access_key, secret_key)
-myToken = "xoxb-1613622075924-2000396635937-kS281GQeYUJg5H3ZZ3RRNKYQ"
+myToken = ""
 
 
 buy_num = 4 #구매할 종목의 개수
